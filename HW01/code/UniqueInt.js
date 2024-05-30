@@ -79,4 +79,4 @@ function UniqueInt(inputFile) {
     await writeToFile(processedData);
   })();
 }
-UniqueInt("../input_Files/sample_01.txt");
+UniqueInt("../input_Files/sample_02.txt");
